@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52dc62f2-8144-49a7-baee-9261099be541" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gaUecXl5sbFLangpLL5BjDN7ZJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/brand" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\Faizan\WebstormProjects\excelenergies\assets\brand" />
+      <recent name="D:\Users\Faizan\WebstormProjects\excelenergies\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52dc62f2-8144-49a7-baee-9261099be541" name="Default Changelist" comment="" />
+      <created>1598352292745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598352292745</updated>
+      <workItem from="1598352298472" duration="728000" />
+      <workItem from="1598353072843" duration="573000" />
+      <workItem from="1598353684396" duration="10799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="611" y="266" width="722" height="329" key="#File_Watchers" timestamp="1598353645683">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="611" y="266" width="722" height="329" key="#File_Watchers/0.0.1440.860@0.0.1440.860" timestamp="1598353645683" />
+    <state x="174" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598353114607">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="174" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1598353114607" />
+    <state x="499" y="239" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598352399938">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="499" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1598352399938" />
+    <state x="499" y="76" width="738" height="585" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1598354030535">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="499" y="76" width="738" height="585" key="#com.intellij.ide.macro.MacrosDialog/0.0.1440.860@0.0.1440.860" timestamp="1598354030535" />
+    <state x="393" y="106" width="653" height="601" key="EditFileWatcherDialog" timestamp="1598354031608">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="393" y="106" width="653" height="601" key="EditFileWatcherDialog/0.0.1440.860@0.0.1440.860" timestamp="1598354031608" />
+    <state x="589" y="153" width="723" height="506" key="EnvironmentVariablesDialog" timestamp="1598354026106">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="589" y="153" width="723" height="506" key="EnvironmentVariablesDialog/0.0.1440.860@0.0.1440.860" timestamp="1598354026106" />
+    <state x="499" y="188" key="FileChooserDialogImpl" timestamp="1598353758659">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="499" y="188" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1598353758659" />
+    <state x="223" y="76" key="SettingsEditor" timestamp="1598354033051">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="223" y="76" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1598354033051" />
+    <state x="429" y="152" width="636" height="556" key="find.popup" timestamp="1598363452344">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="429" y="152" width="636" height="556" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1598363452344" />
+    <state x="511" y="267" key="scopes" timestamp="1598353400524">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="511" y="267" key="scopes/0.0.1440.860@0.0.1440.860" timestamp="1598353400524" />
+  </component>
+</project>
