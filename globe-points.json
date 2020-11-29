@@ -25445,50 +25445,50 @@
       "country": "New York, USA"
     },
     "Africa": {
-      "x": 123828.614987,
-      "y": 12335428.173237,
+      "x": 0,
+      "y": 0,
       "name": "Africa",
       "country": "Africa"
     },
     "Asia": {
-      "x": 3572332.004551,
-      "y": 5433600.127737,
+      "x": 0,
+      "y": 0,
       "name": "Asia",
       "country": "Asia"
     },
     "Central America": {
-      "x": 8672624.580358,
-      "y": -8700937.815341,
+      "x": 0,
+      "y": 0,
       "name": "Central America",
       "country": "Central America"
     },
     "Europe": {
-      "x": 8544438.051465,
-      "y": -8620608.940311,
+      "x": 0,
+      "y": 0,
       "name": "Europe",
       "country": "Europe"
     },
     "North America": {
-      "x": 8315848.851334,
-      "y": -8841322.186125,
+      "x": 0,
+      "y": 0,
       "name": "North America",
       "country": "North America"
     },
     "Oceania": {
-      "x": 714458.655405,
-      "y": 12265625.801933,
+      "x": 0,
+      "y": 0,
       "name": "Oceania",
       "country": "Oceania"
     },
     "South America": {
-      "x": -199117.683633,
-      "y": 12334442.58534,
+      "x": 0,
+      "y": 0,
       "name": "South America",
       "country": "South America"
     },
     "Caribbean": {
-      "x": 8860955.553479,
-      "y": -8464474.211305,
+      "x": 0,
+      "y": 0,
       "name": "Caribbean",
       "country": "Caribbean"
     }
